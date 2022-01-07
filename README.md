@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 #include<bits/stdc++.h>
 
 int main(){
-  std::cout << "Hello world (:";
-  std::cout << "Welcome to my profile, say hi!";
+  std::cout << "Hello world (:" << std::endl;
+  std::cout << "Welcome to my profile, say hi!" << std::endl;
   std::string hi;
   std::cin >> hi;
   
