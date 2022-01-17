@@ -1,4 +1,8 @@
-### Hi there, I'm Tony 👋
+<h2 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="30"/> 
+    Hey there, I'm Tony</a> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="30"/> 
+</h2>
 
 <!--
 **SoyTonyRodriguez/SoyTonyRodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
