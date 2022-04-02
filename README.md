@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 int main(){
   std::cout << "Hello world (:" << std::endl;
-  std::cout << "Welcome to my profile, say hi!" << std::endl;
-  std::string hi;
-  std::cin >> hi;
+  std::cout << "Welcome to my profile!" << std::endl;
   
   return EXIT_SUCCESS;
 }
