@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="30"/> 
-    Hey there, I'm Tony</a> 
+    Hey there, I'm Antonio</a> 
   <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif?1490884029" width="30"/> 
 </h2>
 
