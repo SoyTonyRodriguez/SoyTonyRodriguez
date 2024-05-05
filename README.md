@@ -1,4 +1,11 @@
-# Hello! I'm Antonio
+<h2 align="center"> 
+  <img src="https://slackmojis.com/emojis/87791-heart/download" width="30"/> 
+    Hello, I'm Antonio
+  <img src="https://slackmojis.com/emojis/87791-heart/download" width="30"/> 
+</h2>
+
+<h3 align="center"> Backend Developer Jr.</h3>
+
 
 ----
 
